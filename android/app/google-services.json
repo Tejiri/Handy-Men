@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "717686057481",
+    "firebase_url": "https://seefin-8b928.firebaseio.com",
+    "project_id": "seefin-8b928",
+    "storage_bucket": "seefin-8b928.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:717686057481:android:237a2a8f64243151b3a6d8",
+        "android_client_info": {
+          "package_name": "com.example.handymen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "717686057481-eus2lcnem5ln7n7270pmq4utes82d51t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.handymen",
+            "certificate_hash": "3942f8937ba3e9c791cd33124ba745b121fce46f"
+          }
+        },
+        {
+          "client_id": "717686057481-q6m0bajg9vpedtmf604d6qc74hngdqgm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_KDxE7U9oxILnyLDBNWazkWwGj6LxgHA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "717686057481-q6m0bajg9vpedtmf604d6qc74hngdqgm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
